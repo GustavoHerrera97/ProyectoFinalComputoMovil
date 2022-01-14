@@ -5,8 +5,8 @@ productos que queramos.
 
 #Equipo
 
-Gutiérrez Alcibar Ulises
-Herrera Cordero Gustavo
+#Gutiérrez Alcibar Ulises
+#Herrera Cordero Gustavo
 
 v1.1.0
 FI UNAM 2022
